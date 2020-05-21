@@ -311,7 +311,7 @@ var isWindows = function () {
 };
 
 function enter(text) {
-    clipboard.writeText(text, 'selection');
+    clipboard.writeText(text);
     if(userAction.auto_shutdown === 1) {
         utools.hideMainWindow();
     }
