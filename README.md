@@ -5,29 +5,18 @@
 
 ![演示](http://ww1.sinaimg.cn/large/0076ZmKJly1g8m4bsr0hcg30tg0lywzi.gif)
 
+### 原作者
+
+https://github.com/qiaoanqiao/codevar
+
 ### 安装方式:
 
-[utools](https://u.tools/) 插件中心搜索 `变量快速翻译命名插件`
+安装原作者版本:直接在utools应用搜索即可
 
-**0.0.7** 版本后不再继续提供 upx 文件版本,需要自行在 utools 中打包
+此版本,clone到本地,`Ctrl+c`复制文件`plugin.json`,然后打开utools会提示进入开发者模式
 
-### 功能:
-- 翻译你输入的内容为英文
+在此开启插件即可
 
-- 提供编程中变量命名的小驼峰, 大驼峰, 下划线, 横线, 常量格式的翻译内容
-
-- 只需要上下翻动, 回车或使用快捷键即可复制到剪切板 并自动执行粘贴
-
-
-### 下载方式    
-
-- 本插件下载地址:[https://github.com/qiaoanqiao/codevar](https://github.com/qiaoanqiao/codevar) 自行在 utools 中打包
-
-- `utools` 插件中心搜索 `变量快速翻译命名插件`
-
-### 升级方式:
-如果在之后的使用中. 感觉不爽了.点击插件作者链接, 然后进入插件下载地址. 看看有没有新版本吧
-如果你有什么建议欢迎提出
 
 ### 作者后续想法
 1. 不同翻译引擎设置(萝卜青菜各有所爱...)
