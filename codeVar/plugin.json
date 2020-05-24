@@ -1,8 +1,8 @@
 {
-    "pluginName": "变量快速翻译命名插件",
-    "version": "0.1.2",
+    "pluginName": "变量译名插件",
+    "version": "0.1.3",
     "description": "使用翻译进行变量格式化命名.",
-    "author": "乔安",
+    "author": "原作者:乔安",
     "homepage": "https://www.fenxiangy.com",
     "preload": "preload.js",
     "logo": "logo.png",
